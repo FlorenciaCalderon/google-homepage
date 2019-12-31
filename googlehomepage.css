@@ -1,0 +1,25 @@
+
+
+#logo {
+    display: block;
+    height: 92px;
+    left: calc(50% - 272px/2);
+    position: absolute;
+    width: 272px;
+  }
+  .center1 {
+   
+    box-sizing: content-box;
+    display: flex;
+    float: none;
+    line-height: normal;
+    position: static;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    text-align: left;
+    width: 561px;
+    height: 44px;
+    border: 1px
+   
+  }
