@@ -464,7 +464,7 @@ visibility:visible;
 
 a {
 color:rgb(95, 99, 104);
-display:inline-block;
+display:inline;
 font-family:arial, sans-serif;
 font-size:13.3333px;
 height:35px;
@@ -475,6 +475,10 @@ a:hover {
   text-decoration: underline;
 }
 
-#Privacidad {
-  padding-left: 500px;
+.rightcornerelements{
+  float: right
+}
+
+#Preferencias {
+padding-right: 30px;
 }
