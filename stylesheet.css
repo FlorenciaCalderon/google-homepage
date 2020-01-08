@@ -19,7 +19,6 @@
     outline-color:rgba(0, 0, 0, 0.87);
     outline-style:none;
     outline-width:0px;
-    text-align:center;
     text-decoration-color:rgba(0, 0, 0, 0.87);
     text-decoration-line:none;
     text-decoration-style:solid;
@@ -45,12 +44,12 @@
       outline-color:rgba(0, 0, 0, 0.87);
       outline-style:none;
       outline-width:0px;
-      text-align:center;
       text-decoration-color:rgba(0, 0, 0, 0.87);
       text-decoration-line:none;
       text-decoration-style:solid;
       user-select:none;
       white-space:nowrap;
+      margin-left: -15px
       
     
     }
